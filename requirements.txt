@@ -1,0 +1,16 @@
+
+streamlit==1.28.1
+groq==0.4.1
+pandas==2.0.3
+numpy==1.24.3
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+speechrecognition==3.10.0
+pyttsx3==2.90
+gtts==2.3.2
+audio-recorder-streamlit==0.0.8
+python-dotenv==1.0.0
+pyyaml==6.0.1
+streamlit-chat==0.1.1
+streamlit-extras==0.3.0
+plotly==5.17.0
