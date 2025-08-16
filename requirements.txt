@@ -1,5 +1,6 @@
 groq==0.4.2 
 
+python-3.11
 # Core dependencies
 streamlit>=1.28.0
 pandas>=2.0.0
