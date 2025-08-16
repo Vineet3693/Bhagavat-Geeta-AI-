@@ -27,7 +27,7 @@ class GitaGroqEngine:
         """Initialize Groq client"""
         try:
             if self.api_key == "xyz":
-                self.logger.warning("⚠️  Using placeholder API key 'xyz'. Please set your real Groq API key.")
+                self.logger.warning("⚠️  Using placeholder API key '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'. Please set your real Groq API key.")
                 # For development/testing, we'll create a mock client
                 self.client = MockGroqClient()
             else:
