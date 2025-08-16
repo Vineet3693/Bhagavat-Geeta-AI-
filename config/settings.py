@@ -16,7 +16,7 @@ ASSETS_DIR = BASE_DIR / "assets"
 UI_DIR = BASE_DIR / "ui"
 
 # API Configuration
-GROQ_API_KEY = os.getenv("GROQ_API_KEY", "xyz")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "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")
 GROQ_MODELS = {
     "fast": "llama3-8b-8192",
     "balanced": "llama3-70b-8192", 
