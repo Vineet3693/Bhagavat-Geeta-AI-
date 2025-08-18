@@ -65,7 +65,7 @@ GITA_VERSES = {
 def get_ai_response(question: str, relevant_verse: Dict) -> str:
     """Generate AI response using Groq API or mock response"""
     
-    if GROQ_API_KEY == "xyz":
+    if GROQ_API_KEY == "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":
         # Mock response for testing
         return f"""Based on your question about "{question}", the Bhagavad Gita teaches us through Chapter {relevant_verse['chapter']}, Verse {relevant_verse['verse']}:
 
