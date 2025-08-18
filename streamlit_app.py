@@ -15,7 +15,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Get API key
-GROQ_API_KEY = os.getenv("GROQ_API_KEY", "xyz")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "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")
 
 # Mock Gita data (no external files needed)
 GITA_VERSES = {
